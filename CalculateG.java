@@ -1,6 +1,7 @@
 public class CalculateG {
     public static Double multiplacation(Double f, double x) {
         // method for multiplacation
+//practical purposes
         return f * z;
     }
 
